@@ -6,7 +6,7 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: C#, JavaScript, Java, Python</code>
-<code>📦 Tech stack: node.js</code>
+<code>📦 Tech stack: .NET, node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@alenaolden](https://telegram.me/alenaolden)</code>
 <code>📫 [jersin221@gmail.com](mailto:jersin221@gmail.com)</code>
