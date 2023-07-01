@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: C#, JavaScript, Java, Python</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/alenaolden)</code>
-<code>📫 [your-email](mailto:jersin221@gmail.com)</code>
+<code>💬 telegram: [@alenaolden](https://telegram.me/alenaolden)</code>
+<code>📫 [jersin221@gmail.com](mailto:jersin221@gmail.com)</code>
